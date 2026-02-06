@@ -1,21 +1,25 @@
+
+<!-- Profile GIF -->
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](#)
+
 ## 👋 Hi, I'm Abdallah
 
 I'm a Computer Science student and aspiring software developer.  
-I have a solid foundation in programming fundamentals and problem solving, with hands-on study in multiple core areas.
+I have studied core programming fundamentals and I'm building my skills step by step.
 
 ---
 
-### 🧠 What I’ve Studied
+### 🧠 What I've Studied
 
 - C++
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Databases (SQL)
-- Web Development (Frontend basics)
+- Web Development
 
 ---
 
-### 💻 Programming Languages
+### 💻 Languages
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -25,27 +29,24 @@ I have a solid foundation in programming fundamentals and problem solving, with 
 
 ---
 
-### 🛠 Concepts & Skills
+### 🛠 Core Concepts
 
-- Object-Oriented Design
+![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-000)
+![DS](https://img.shields.io/badge/-Data%20Structures-000)
+![DB](https://img.shields.io/badge/-Databases-000)
+![Web](https://img.shields.io/badge/-Web%20Development-000)
+
+---
+
+### 🚀 Currently Focusing On
+
 - Problem Solving
-- Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees – basics)
-- Database Design & Queries
-- Basic Frontend Development
+- Improving Data Structures
+- Writing clean C++ code
+- Building small web projects
 
 ---
 
-### 🎯 Currently Focusing On
+### 🎯 Goal
 
-- Improving problem-solving skills
-- Building small projects
-- Strengthening OOP & Data Structures
-- Expanding Web Development knowledge
-
----
-
-### 📌 Goals
-
-- Become a professional software developer
-- Build strong real-world projects
-- Prepare for backend / full-stack development in the future
+To become a professional software developer and work on real-world projects.
