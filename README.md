@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 Hi, I'm Abdallah
 
-<!--
-**abdallahibrahim278729za-sys/abdallahibrahim278729za-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and aspiring software developer.  
+I have a solid foundation in programming fundamentals and problem solving, with hands-on study in multiple core areas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’ve Studied
+
+- C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Databases (SQL)
+- Web Development (Frontend basics)
+
+---
+
+### 💻 Programming Languages
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+
+---
+
+### 🛠 Concepts & Skills
+
+- Object-Oriented Design
+- Problem Solving
+- Data Structures (Arrays, Linked Lists, Stacks, Queues, Trees – basics)
+- Database Design & Queries
+- Basic Frontend Development
+
+---
+
+### 🎯 Currently Focusing On
+
+- Improving problem-solving skills
+- Building small projects
+- Strengthening OOP & Data Structures
+- Expanding Web Development knowledge
+
+---
+
+### 📌 Goals
+
+- Become a professional software developer
+- Build strong real-world projects
+- Prepare for backend / full-stack development in the future
